@@ -81,7 +81,7 @@ export default async function (req: VercelRequest, res: VercelResponse) {
         <meta property="fc:frame:button:1" content="Mint your commemorative frame.syndicate.io NFT!" />
         <meta
           name="fc:frame:post_url"
-          content="https://syndicate-farcaster-frame-starter.vercel.app/api/syndicate-farcaster-frame-starter"
+          content="https://asciilawb.vercel.app/api/syndicate-farcaster-frame-starter"
         />
       </head>
     </html>
