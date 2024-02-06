@@ -46,7 +46,7 @@ export default async function (req: VercelRequest, res: VercelResponse) {
             <meta property="fc:frame" content="vNext" />
             <meta
               property="fc:frame:image"
-              content="https://bafybeihxfyltqaawyqfdh442hzh6cdwms7nbodtk7qkfilgkftmd52xz3e.ipfs.nftstorage.link/1.png"
+              content="https://bafybeihxfyltqaawyqfdh442hzh6cdwms7nbodtk7qkfilgkftmd52xz3e.ipfs.nftstorage.link/107.png"
             />
             <meta
               property="fc:frame:button:1"
@@ -76,7 +76,7 @@ export default async function (req: VercelRequest, res: VercelResponse) {
         <meta property="fc:frame" content="vNext" />
         <meta
           property="fc:frame:image"
-          content="https://bafybeihxfyltqaawyqfdh442hzh6cdwms7nbodtk7qkfilgkftmd52xz3e.ipfs.nftstorage.link/1.png"
+          content="https://bafybeihxfyltqaawyqfdh442hzh6cdwms7nbodtk7qkfilgkftmd52xz3e.ipfs.nftstorage.link/107.png"
         />
         <meta property="fc:frame:button:1" content="Mint your ascii Lawbster!" />
         <meta
